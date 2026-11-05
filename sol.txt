@@ -1,0 +1,3 @@
+bvche@cutie:~/practice$ cut -d' ' -f4  02-text/access.log | sort | uniq -c
+wc -l file name 
+
